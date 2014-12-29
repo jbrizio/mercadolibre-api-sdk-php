@@ -1,0 +1,16 @@
+body {
+	color: #333333;
+  font: 13px/20px Arial,Helvetica,"Nimbus Sans L",sans-serif;
+  margin-top: 80px;
+}
+
+.logo-ml {
+	background: transparent url('../img/main.png') 0 0 no-repeat;
+	width: 63px;
+	height: 36px;
+	position: absolute;
+	margin-left: 10px;
+}
+.welcome-msg {
+	color: #dc7b1c;
+}
